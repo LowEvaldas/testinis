@@ -22,6 +22,7 @@
   <header>
 
     <div class="bt-buy"><a href="#">Pirkti</a></div>
+    Šalalal
  
 </header>
 </body>
